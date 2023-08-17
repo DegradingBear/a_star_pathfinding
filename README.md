@@ -10,4 +10,6 @@ Implementation of the a-star pathfinding algorithm using p5.js library.
 |D + click| deletes placed tiles in 3x3|
 |enter| start path finding|
 
-To use, download files and open index.html in your browser of choice! happy pathfinding :)
+To use, download files and open index.html in your browser of choice!
+
+happy pathfinding :)
