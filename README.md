@@ -1,7 +1,7 @@
 # a_star_pathfinding
 Implementation of the a-star pathfinding algorithm using p5.js library.
 
---------------------------|
+
         CONTROLS          |
 --------------------------|
 click: place tile
